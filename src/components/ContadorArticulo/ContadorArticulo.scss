@@ -1,0 +1,28 @@
+@import '../../sass/_styles.sass';
+
+.ContadorArticulo {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    
+    button {
+        color: $primary-color-Orange;
+        border: none;
+        background-color: $neutral-color-lgblue;
+        font-weight: bold;
+        cursor: pointer;
+        &:hover{
+           color:hsl(26, 97%, 76%);
+        }
+    }
+
+    &__contador{
+        color: $primary-color-Orange;
+        background-color: hsla(26, 89%, 82%, 0.322);
+        border-radius: 2px;
+        font-weight: bold;
+        font-size: 14px;
+        padding: 3px 2px;
+    }
+
+}

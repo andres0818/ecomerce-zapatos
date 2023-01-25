@@ -1,0 +1,24 @@
+@import '../../sass/_styles.sass';
+
+.AddCarrito {
+    border: none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    gap: 8px;
+    border-radius: 4px;
+    min-width: 210px;
+    padding: 8px 0;
+    color: white;
+    font-weight: bold;
+    background: $primary-color-Orange;
+    
+    &:hover{
+        opacity: .8;
+    }
+
+    &__icono {
+        width: 24px;
+    }
+}

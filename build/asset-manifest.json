@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ventaZapatos-WorkShop/static/css/main.ced2fba9.css",
+    "main.js": "/ventaZapatos-WorkShop/static/js/main.32489cca.js",
+    "static/media/logo.svg": "/ventaZapatos-WorkShop/static/media/logo.4fe9c1e86cf9bf600f0c239f6a6e5317.svg",
+    "index.html": "/ventaZapatos-WorkShop/index.html",
+    "static/media/icon-delete.svg": "/ventaZapatos-WorkShop/static/media/icon-delete.1fd1f1f7d9f8ce5557b44ca3470a18b8.svg",
+    "static/media/icon-cart.svg": "/ventaZapatos-WorkShop/static/media/icon-cart.539ec608f50e707c94d583ec11acf99d.svg",
+    "static/media/icon-close.svg": "/ventaZapatos-WorkShop/static/media/icon-close.c390448669f3a8a4c4b2ada2f9938959.svg",
+    "static/media/icon-menu.svg": "/ventaZapatos-WorkShop/static/media/icon-menu.c6107d03f1edcf73523ebd8cbc50a443.svg",
+    "static/media/icon-previous.svg": "/ventaZapatos-WorkShop/static/media/icon-previous.80616402c611cc0a6651d0b751da8a9b.svg",
+    "static/media/icon-next.svg": "/ventaZapatos-WorkShop/static/media/icon-next.9621183a551a9985b4bd7536c9a69c66.svg",
+    "main.ced2fba9.css.map": "/ventaZapatos-WorkShop/static/css/main.ced2fba9.css.map",
+    "main.32489cca.js.map": "/ventaZapatos-WorkShop/static/js/main.32489cca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ced2fba9.css",
+    "static/js/main.32489cca.js"
+  ]
+}

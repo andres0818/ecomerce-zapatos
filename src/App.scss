@@ -1,0 +1,13 @@
+@import "./sass/_styles.sass";
+
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    @include text;
+}
+
+* {
+    box-sizing: border-box;
+}

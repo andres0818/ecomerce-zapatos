@@ -1,0 +1,39 @@
+@import '../../sass/_styles.sass';
+
+.InformacionArticulo {
+    h2 {
+        color: $primary-color-Orange;
+        margin-top: 0;
+        margin-bottom: 32px;
+        font-size: 25px;
+    }
+
+    h1 {
+        font-weight: bold;
+        margin-top: 0;
+        margin-bottom: 20px;
+        font-size: 25px;
+    }
+
+    p {
+        font-size: 16px;
+        color: gray;
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
+
+    &__precio {
+        font-size: 20px;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+
+    &__descuento {
+        display: inline-block;
+        font-weight: bold;
+        color: $primary-color-Orange;
+        padding: 4px;
+        border-radius: 4px;
+        background: $primary-color-Pale-Orange;
+    }
+}

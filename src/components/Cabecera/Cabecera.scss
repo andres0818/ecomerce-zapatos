@@ -1,0 +1,42 @@
+.Cabecera {
+    margin: 0 auto;
+    padding: 0 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    max-width: 1800px;
+    border-bottom: 1px solid gray;
+
+    &__logo {
+        width: 200px;
+        height: auto;
+    }
+
+    &__menu {
+        height: 100%;
+        font-size: 24px;
+
+        ul {
+            height: 100%;
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+
+        li {
+            margin: 0;
+            padding: 0;
+        }
+
+        a {
+            text-decoration: none;
+            color: black;
+        }
+    }
+    
+}

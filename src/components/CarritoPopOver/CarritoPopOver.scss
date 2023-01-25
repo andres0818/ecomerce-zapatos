@@ -1,0 +1,145 @@
+@import '../../sass/_styles.sass';
+
+
+
+span:nth-child(1) {
+    display: flex;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: -50px;
+}
+
+.carro {margin-top: 30px;
+    color: transparent;
+    position: relative;
+    display: flex;
+    width: 80px;
+    height: 80px;
+    &__contador{
+        position: absolute;
+        background-color: red;
+        color: white;
+        font-weight: bold;
+        width: 20px;
+        height: 20px;
+        text-align: center;
+        border-radius: 5px;
+        top: -15px;
+        left: -5px;
+        
+    }
+
+    &__articulos {
+        top: 5px;
+        left: -50px;
+        width: 55px;
+        height: 50px;
+        position: absolute;
+        opacity: 1;
+        overflow: hidden;
+        /* box-shadow: 0 10px 30px 5px gray; */
+
+        &:hover {
+
+            overflow: visible;
+            opacity: 1;
+            width: 500px;
+            height: auto;
+            top: 60px;
+            left: -420px;
+            color: black;
+            background-color: white;
+            border-radius: 20px;
+            padding: 10px;
+
+            &::before {
+                content: " ";
+                display: flex;
+                position: absolute;
+                width: 56px;
+                height: 60px;
+                top: -60px;
+                left: 71%;
+            }
+
+
+            &::after {
+                content: "";
+                display: flex;
+                position: absolute;
+                background-color: gray;
+                width: 98%;
+                height: 99%;
+                top: 10px;
+                z-index: -1;
+                filter: blur(10px);
+            }
+        }
+    }
+}
+
+.car {
+    display: flex;
+    gap: 25px;
+    margin-bottom: 40px;
+
+    &__img {
+        width: 90px;
+        height: 90px;
+        border-radius: 8px;
+    }
+
+    &__info {
+        display: grid;
+        grid-template-rows: repeat(2, 0.6fr);
+        align-items: center;
+        border-radius: 1px solid;
+    }
+
+    &__nombre {
+        color: gray;
+    }
+
+    &__costo {
+        display: flex;
+        gap: 5px;
+        transform: translateX(50px);
+    }
+
+    &__precio {
+        color: gray;
+    }
+
+    &__cantidad {
+        color: gray;
+        margin-right: 10px;
+    }
+
+    &__total {
+        font-weight: 900;
+    }
+
+    &__borrar {
+        display: flex;
+        position: absolute;
+        left: 87%;
+        transform: translateY(-15px);
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+    }
+
+    &__comprar {
+        background-color: $primary-color-Orange;
+        border: none;
+        width: 80%;
+        height: 60px;
+        border-radius: 12px;
+        margin: 0 10% 5% 10%;
+        color: white;
+        font-size: 20px;
+        font-weight: 700;
+        cursor: pointer;
+    }
+}

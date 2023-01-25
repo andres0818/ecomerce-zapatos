@@ -1,0 +1,15 @@
+.Articulo {
+    padding: 50px;
+    margin: 0 auto;
+    display: flex;
+    gap: 100px;
+    max-width: 1200px;
+
+
+    &__botones {
+        margin-top: 20px;
+        display: flex;
+        gap: 18px;
+    }
+}
+

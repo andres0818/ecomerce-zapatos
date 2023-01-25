@@ -1,0 +1,172 @@
+{
+    "allArticle": [
+
+    {"product": {
+        "id": 1,
+        "nombre": "Tenis Running Negro Skechers Bountiful",
+        "precio": 161.900,
+        "imagenUno": "https://static.dafiti.com.co/p/skechers-1062-553688-1-product.jpg",
+        "imagenDos": "https://static.dafiti.com.co/p/skechers-1064-553688-2-product.jpg",
+        "imagenTres": "https://static.dafiti.com.co/p/skechers-1066-553688-3-product.jpg",
+        "imagenCuatro": "https://static.dafiti.com.co/p/skechers-1068-553688-4-product.jpg",
+        "descripcion": "Pon más potencia explosiva y comodidad en tu entrenamiento con la zapatilla Skechers Bountiful. Parte superior de malla tejida suave y material sintético en una zapatilla deportiva de entrenamiento cómoda con cordones y entresuela amortiguadora.  "
+    }},{
+    "product": {
+        "id": 2,
+        "nombre": "Tenis Training Gris-Negro-Verde Skechers Knockhill",
+        "precio": 186.900,
+        "imagenUno": "https://static.dafiti.com.co/p/skechers-2204-3879511-2-product.jpg",
+        "imagenDos": "https://static.dafiti.com.co/p/skechers-2206-3879511-3-product.jpg",
+        "imagenTres": "https://static.dafiti.com.co/p/skechers-2207-3879511-4-product.jpg",
+        "imagenCuatro": "https://static.dafiti.com.co/p/skechers-2209-3879511-5-product.jpg",
+        "descripcion": "Redescubre la alegría de caminar con todo el confort con el modelo Skechers. Presenta un innovador diseño de media suela 5GEN y una parte superior de malla con la plantilla Goga Mat Air Cooled para una experiencia más avanzada que nunca al caminar. Diseño de zapatilla con cordones elásticos en el frontal."
+    }},
+    {"product": {
+        "id": 3,
+        "nombre": "Tenis Negro Skechers New World",
+        "precio": 196.900,
+        "imagenUno": "https://static.dafiti.com.co/p/skechers-1388-6221381-1-product.jpg",
+        "imagenDos": "https://static.dafiti.com.co/p/skechers-1391-6221381-2-product.jpg",
+        "imagenTres": "https://static.dafiti.com.co/p/skechers-1395-6221381-4-product.jpg",
+        "imagenCuatro": "https://static.dafiti.com.co/p/skechers-1397-6221381-5-product.jpg",
+        "descripcion": "Descubre el término medio ideal entre comodidad ligera y estilo deportivo confiable con el calzado SKECHERS Summits - New World. El cuero de acción suave se combina con la tela de malla mono texturizada en una zapatilla deportiva de entrenamiento con cordones en la parte delantera con detalle de panel transpirable."
+    }},
+    {"product": {
+        "id": 4,
+        "nombre": "Tenis Training Rojo-Blanco Skechers",
+        "precio": 183.900,
+        "imagenUno": "https://static.dafiti.com.co/p/skechers-7404-3914602-1-product.jpg",
+        "imagenDos": "https://static.dafiti.com.co/p/skechers-7406-3914602-2-product.jpg",
+        "imagenTres": "https://static.dafiti.com.co/p/skechers-7407-3914602-3-product.jpg",
+        "imagenCuatro": "https://static.dafiti.com.co/p/skechers-7411-3914602-5-product.jpg",
+        "descripcion": "El nuevo diseño de Athletic que tiene para ti esta colección con un formato diferente, están confeccionados en parte superior de malla transpirable con superposiciones de sintético. Panel frontal con sistema de cierre de cordones planos para un mejor ajuste. Plantilla de confort con amortiguación y suela con tracción de goma."
+    }},
+    {"product": {
+        "id": 5,
+        "nombre": "Tenis Lifestyle Blanco Skechers Uno",
+        "precio": 268.900,
+        "imagenUno": "https://static.dafiti.com.co/p/skechers-3633-3198112-1-product.jpg",
+        "imagenDos": "https://static.dafiti.com.co/p/skechers-3634-3198112-2-product.jpg",
+        "imagenTres": "https://static.dafiti.com.co/p/skechers-3636-3198112-3-product.jpg",
+        "imagenCuatro": "https://static.dafiti.com.co/p/skechers-3640-3198112-5-product.jpg",
+        "descripcion": "La comodidad clásica con amortiguación de aire recibe una nueva actualización en Skechers Street Uno - Stand on Air. Este estilo de moda con cordones cuenta con una parte superior sintética perforada suave con una plantilla de espuma viscoelástica refrigerada por aire y una entresuela acolchada con aire visible Skech-Air."
+    }},
+    {"product": {
+        "id": 6,
+        "nombre": "Tenis Training Azul Navy-Blanco Skechers",
+        "precio": 234.900,
+        "imagenUno": "https://static.dafiti.com.co/p/skechers-8989-3814502-1-product.jpg",
+        "imagenDos": "https://static.dafiti.com.co/p/skechers-8991-3814502-2-product.jpg",
+        "imagenTres": "https://static.dafiti.com.co/p/skechers-8993-3814502-3-product.jpg",
+        "imagenCuatro": "https://static.dafiti.com.co/p/skechers-8996-3814502-5-product.jpg",
+        "descripcion": "Agrega más comodidad acolchada y respuesta a tu carrera con Skechers Weight . Un diseño cómodo y acolchado para correr y caminar sobre una plataforma acolchada, ajuste clásico de cordones, logo de la marca en contraste, suela que se adapta a cualquier tipo de terreno. Vive tus días con otra manera de ver la vida y sentir que la comodidad infinita si existe."
+    }},
+    {"product": {
+        "id": 7,
+        "nombre": "Tenis Azul-Blanco Skechers Nvlb",
+        "precio": 180.900,
+        "imagenUno": "https://static.dafiti.com.co/p/skechers-8940-3644301-1-product.jpg",
+        "imagenDos": "https://static.dafiti.com.co/p/skechers-8941-3644301-2-product.jpg",
+        "imagenTres": "https://static.dafiti.com.co/p/skechers-8943-3644301-3-product.jpg",
+        "imagenCuatro": "https://static.dafiti.com.co/p/skechers-8944-3644301-4-product.jpg",            
+        "descripcion": "Recuerda que la talla en el empaque y en el producto puede diferir con la numeración colombiana, esto se debe a las medidas utilizadas por el país de origen de cada producto. Puedes probártelo antes de solicitar el cambio."
+    }},
+    {"product": {
+        "id": 8,
+        "nombre": "Tenis Lifestyle Rosa-Blanco Skechers Uno Stand On Air",
+        "precio": 264.900,
+        "imagenUno": "https://static.dafiti.com.co/p/skechers-9102-1799702-1-product.jpg",
+        "imagenDos": "https://static.dafiti.com.co/p/skechers-9104-1799702-2-product.jpg",
+        "imagenTres": "https://static.dafiti.com.co/p/skechers-9106-1799702-3-product.jpg",
+        "imagenCuatro": "https://static.dafiti.com.co/p/skechers-9108-1799702-4-product.jpg",
+        "descripcion": "El estilo clásico con amortiguación de aire se combina con la comodidad actualizada en el calzado Stand on Air. Parte superior sintética con textura de PU liso en una zapatilla deportiva clásica de moda con cordones, detalles de costuras y perforaciones. Plantilla Air Cooled Memory Foam, entresuela acolchada con aire visible."
+    }}
+],
+"men": [
+    
+    {"product": {
+        "id": 1,
+        "nombre": "Tenis Running Negro Skechers Bountiful",
+        "precio": 161.900,
+        "imagenUno": "https://static.dafiti.com.co/p/skechers-1062-553688-1-product.jpg",
+        "imagenDos": "https://static.dafiti.com.co/p/skechers-1064-553688-2-product.jpg",
+        "imagenTres": "https://static.dafiti.com.co/p/skechers-1066-553688-3-product.jpg",
+        "imagenCuatro": "https://static.dafiti.com.co/p/skechers-1068-553688-4-product.jpg",
+        "descripcion": "Pon más potencia explosiva y comodidad en tu entrenamiento con la zapatilla Skechers Bountiful. Parte superior de malla tejida suave y material sintético en una zapatilla deportiva de entrenamiento cómoda con cordones y entresuela amortiguadora.  "
+    }},{
+    "product": {
+        "id": 2,
+        "nombre": "Tenis Training Gris-Negro-Verde Skechers Knockhill",
+        "precio": 186.900,
+        "imagenUno": "https://static.dafiti.com.co/p/skechers-2204-3879511-2-product.jpg",
+        "imagenDos": "https://static.dafiti.com.co/p/skechers-2206-3879511-3-product.jpg",
+        "imagenTres": "https://static.dafiti.com.co/p/skechers-2207-3879511-4-product.jpg",
+        "imagenCuatro": "https://static.dafiti.com.co/p/skechers-2209-3879511-5-product.jpg",
+        "descripcion": "Redescubre la alegría de caminar con todo el confort con el modelo Skechers. Presenta un innovador diseño de media suela 5GEN y una parte superior de malla con la plantilla Goga Mat Air Cooled para una experiencia más avanzada que nunca al caminar. Diseño de zapatilla con cordones elásticos en el frontal."
+    }},
+    {"product": {
+        "id": 3,
+        "nombre": "Tenis Negro Skechers New World",
+        "precio": 196.900,
+        "imagenUno": "https://static.dafiti.com.co/p/skechers-1388-6221381-1-product.jpg",
+        "imagenDos": "https://static.dafiti.com.co/p/skechers-1391-6221381-2-product.jpg",
+        "imagenTres": "https://static.dafiti.com.co/p/skechers-1395-6221381-4-product.jpg",
+        "imagenCuatro": "https://static.dafiti.com.co/p/skechers-1397-6221381-5-product.jpg",
+        "descripcion": "Descubre el término medio ideal entre comodidad ligera y estilo deportivo confiable con el calzado SKECHERS Summits - New World. El cuero de acción suave se combina con la tela de malla mono texturizada en una zapatilla deportiva de entrenamiento con cordones en la parte delantera con detalle de panel transpirable."
+    }},
+    {"product": {
+        "id": 4,
+        "nombre": "Tenis Training Rojo-Blanco Skechers",
+        "precio": 183.900,
+        "imagenUno": "https://static.dafiti.com.co/p/skechers-7404-3914602-1-product.jpg",
+        "imagenDos": "https://static.dafiti.com.co/p/skechers-7406-3914602-2-product.jpg",
+        "imagenTres": "https://static.dafiti.com.co/p/skechers-7407-3914602-3-product.jpg",
+        "imagenCuatro": "https://static.dafiti.com.co/p/skechers-7411-3914602-5-product.jpg",
+        "descripcion": "El nuevo diseño de Athletic que tiene para ti esta colección con un formato diferente, están confeccionados en parte superior de malla transpirable con superposiciones de sintético. Panel frontal con sistema de cierre de cordones planos para un mejor ajuste. Plantilla de confort con amortiguación y suela con tracción de goma."
+    }}
+],
+"women": [
+    
+    {"product": {
+        "id": 5,
+        "nombre": "Tenis Lifestyle Blanco Skechers Uno",
+        "precio": 268.900,
+        "imagenUno": "https://static.dafiti.com.co/p/skechers-3633-3198112-1-product.jpg",
+        "imagenDos": "https://static.dafiti.com.co/p/skechers-3634-3198112-2-product.jpg",
+        "imagenTres": "https://static.dafiti.com.co/p/skechers-3636-3198112-3-product.jpg",
+        "imagenCuatro": "https://static.dafiti.com.co/p/skechers-3640-3198112-5-product.jpg",
+        "descripcion": "La comodidad clásica con amortiguación de aire recibe una nueva actualización en Skechers Street Uno - Stand on Air. Este estilo de moda con cordones cuenta con una parte superior sintética perforada suave con una plantilla de espuma viscoelástica refrigerada por aire y una entresuela acolchada con aire visible Skech-Air."
+    }},
+    {"product": {
+        "id": 6,
+        "nombre": "Tenis Training Azul Navy-Blanco Skechers",
+        "precio": 234.900,
+        "imagenUno": "https://static.dafiti.com.co/p/skechers-8989-3814502-1-product.jpg",
+        "imagenDos": "https://static.dafiti.com.co/p/skechers-8991-3814502-2-product.jpg",
+        "imagenTres": "https://static.dafiti.com.co/p/skechers-8993-3814502-3-product.jpg",
+        "imagenCuatro": "https://static.dafiti.com.co/p/skechers-8996-3814502-5-product.jpg",
+        "descripcion": "Agrega más comodidad acolchada y respuesta a tu carrera con Skechers Weight . Un diseño cómodo y acolchado para correr y caminar sobre una plataforma acolchada, ajuste clásico de cordones, logo de la marca en contraste, suela que se adapta a cualquier tipo de terreno. Vive tus días con otra manera de ver la vida y sentir que la comodidad infinita si existe."
+    }},
+    {"product": {
+        "id": 7,
+        "nombre": "Tenis Azul-Blanco Skechers Nvlb",
+        "precio": 180.900,
+        "imagenUno": "https://static.dafiti.com.co/p/skechers-8940-3644301-1-product.jpg",
+        "imagenDos": "https://static.dafiti.com.co/p/skechers-8941-3644301-2-product.jpg",
+        "imagenTres": "https://static.dafiti.com.co/p/skechers-8943-3644301-3-product.jpg",
+        "imagenCuatro": "https://static.dafiti.com.co/p/skechers-8944-3644301-4-product.jpg",            
+        "descripcion": "Recuerda que la talla en el empaque y en el producto puede diferir con la numeración colombiana, esto se debe a las medidas utilizadas por el país de origen de cada producto. Puedes probártelo antes de solicitar el cambio."
+    }},
+    {"product": {
+        "id": 8,
+        "nombre": "Tenis Lifestyle Rosa-Blanco Skechers Uno Stand On Air",
+        "precio": 264.900,
+        "imagenUno": "https://static.dafiti.com.co/p/skechers-9102-1799702-1-product.jpg",
+        "imagenDos": "https://static.dafiti.com.co/p/skechers-9104-1799702-2-product.jpg",
+        "imagenTres": "https://static.dafiti.com.co/p/skechers-9106-1799702-3-product.jpg",
+        "imagenCuatro": "https://static.dafiti.com.co/p/skechers-9108-1799702-4-product.jpg",
+        "descripcion": "El estilo clásico con amortiguación de aire se combina con la comodidad actualizada en el calzado Stand on Air. Parte superior sintética con textura de PU liso en una zapatilla deportiva clásica de moda con cordones, detalles de costuras y perforaciones. Plantilla Air Cooled Memory Foam, entresuela acolchada con aire visible."
+    }}
+
+]
+}
