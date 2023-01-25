@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ecomerce-zapatos/static/css/main.34090897.css",
+    "main.js": "/ecomerce-zapatos/static/js/main.331ff0ac.js",
+    "static/media/logo.svg": "/ecomerce-zapatos/static/media/logo.4fe9c1e86cf9bf600f0c239f6a6e5317.svg",
+    "static/media/icon-delete.svg": "/ecomerce-zapatos/static/media/icon-delete.1fd1f1f7d9f8ce5557b44ca3470a18b8.svg",
+    "index.html": "/ecomerce-zapatos/index.html",
+    "static/media/icon-cart.svg": "/ecomerce-zapatos/static/media/icon-cart.539ec608f50e707c94d583ec11acf99d.svg",
+    "static/media/icon-close.svg": "/ecomerce-zapatos/static/media/icon-close.c390448669f3a8a4c4b2ada2f9938959.svg",
+    "main.34090897.css.map": "/ecomerce-zapatos/static/css/main.34090897.css.map",
+    "main.331ff0ac.js.map": "/ecomerce-zapatos/static/js/main.331ff0ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34090897.css",
+    "static/js/main.331ff0ac.js"
+  ]
+}
